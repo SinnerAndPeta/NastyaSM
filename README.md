@@ -2,8 +2,7 @@
 
 Проект "The Last of Us"
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg
-<Изображение>
+<Image src="https://ltdfoto.ru/image/Bal617">
 
 > Добро пожаловать в The Last of Us - захватывающую постапокалиптическую игру, где каждое ваше решение имеет значение! Исследуйте мир разрушенной земли, выживайте в обстановке постоянной угрозы и вступайте в смертельные схватки с опасными врагами. Примите вызов и станьте героем последних дней человечества!
 
