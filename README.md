@@ -33,7 +33,7 @@
    
 Скриншоты
 
-<Image src="[https://ltdfoto.ru/images/2024/03/02/rrrrr.png](https://cdn.kanobu.ru/screenshots/79/bff2cce4-6cbc-4d7a-a399-5d90c1412bf2.jpg)" width = "400px" Height="400px">
+<Image src="[https://cdn.kanobu.ru/screenshots/79/bff2cce4-6cbc-4d7a-a399-5d90c1412bf2.webp)" width = "400px" Height="400px">
 <Изображение>
 <Изображение>
 <Изображение>
