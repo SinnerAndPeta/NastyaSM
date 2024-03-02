@@ -41,6 +41,10 @@
 
 > [!CAUTION]
 > Если у вас возникли проблемы с игрой или у вас есть предложения по ее улучшению, пожалуйста, обратитесь к нашей команде поддержки по адресу support@the-chronicles-of-the-last.com.
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 > [!TIP]
 > Если вы хотите присоединиться к команде разработки или стать волонтером в нашей компании, пожалуйста, свяжитесь с нами по адресу volunteer@the-chronicles-of-the-last.com.
 
