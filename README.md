@@ -1,4 +1,4 @@
-# Nastya/The Last of Us
+# The Last of Us
 
 Проект "The Last of Us"
 
