@@ -33,13 +33,13 @@
    
 Скриншоты
 
-<Image src="[https://cdn.kanobu.ru/screenshots/79/bff2cce4-6cbc-4d7a-a399-5d90c1412bf2.webp)" width = "400px" Height="400px">
+<Image src="[https://images.stopgame.ru/news/2020/04/02/WZxsx7sxwApTF.jpg)" width = "400px" Height="400px">
 <Изображение>
 <Изображение>
 <Изображение>
 Поддержка
 
-> [!Проблемы]
+> [!CAUTION]
 > Если у вас возникли проблемы с игрой или у вас есть предложения по ее улучшению, пожалуйста, обратитесь к нашей команде поддержки по адресу support@the-chronicles-of-the-last.com.
 
 > [!NOTE]
