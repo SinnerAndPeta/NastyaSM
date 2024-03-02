@@ -2,7 +2,7 @@
 
 Проект "The Last of Us"
 
-<Image src="https://ltdfoto.ru/images/2024/03/02/rrrrr.png" width = "400px" Height="400px" text-align:center >
+<Image src="https://ltdfoto.ru/images/2024/03/02/rrrrr.png" width = "400px" Height="400px">
 
 > Добро пожаловать в The Last of Us - захватывающую постапокалиптическую игру, где каждое ваше решение имеет значение! Исследуйте мир разрушенной земли, выживайте в обстановке постоянной угрозы и вступайте в смертельные схватки с опасными врагами. Примите вызов и станьте героем последних дней человечества!
 
@@ -33,6 +33,7 @@
    
 Скриншоты
 
+<Image src="[https://ltdfoto.ru/images/2024/03/02/rrrrr.png](https://cdn.kanobu.ru/screenshots/79/bff2cce4-6cbc-4d7a-a399-5d90c1412bf2.jpg)" width = "400px" Height="400px">
 <Изображение>
 <Изображение>
 <Изображение>
